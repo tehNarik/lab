@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\aidan\CLionProjects\Project3\Project3\MyForm.h(240,3): warning C4286: 'System::ArgumentException ^': is caught by base class ('System::Exception ^') on line 237
+C:\Users\aidan\CLionProjects\Project3\Project3\MyForm.h(243,3): warning C4286: 'MyException ^': is caught by base class ('System::Exception ^') on line 237
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project3.vcxproj -> C:\Users\aidan\CLionProjects\Project3\x64\Debug\Project3.exe
